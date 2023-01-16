@@ -183,10 +183,10 @@ nav > ul {
   position: relative;
 }
 
-.feature-img {
+/* .feature-img {
   width: 100%;
   height: 100%;
-}
+} */
 
 .btn-floating {
   width: 342px;
@@ -308,6 +308,10 @@ nav > ul {
   }
   .feature-section {
     flex-direction: column;
+  }
+  .feature-img {
+    width: 100%;
+    height: 100%;
   }
   .btn-floating {
     bottom: -77px;
